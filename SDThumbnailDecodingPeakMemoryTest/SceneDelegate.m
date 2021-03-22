@@ -2,7 +2,7 @@
 //  SceneDelegate.m
 //  SDThumbnailDecodingPeakMemoryTest
 //
-//  Created by eleme-ky on 2021/3/22.
+//  Created by KittenYang on 2021/3/22.
 //
 
 #import "SceneDelegate.h"

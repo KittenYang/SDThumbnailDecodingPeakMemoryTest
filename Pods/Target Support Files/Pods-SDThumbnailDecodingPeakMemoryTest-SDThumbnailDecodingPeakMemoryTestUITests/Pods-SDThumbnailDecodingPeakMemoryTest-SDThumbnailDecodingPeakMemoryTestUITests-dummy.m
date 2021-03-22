@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_SDThumbnailDecodingPeakMemoryTest_SDThumbnailDecodingPeakMemoryTestUITests : NSObject
+@end
+@implementation PodsDummy_Pods_SDThumbnailDecodingPeakMemoryTest_SDThumbnailDecodingPeakMemoryTestUITests
+@end

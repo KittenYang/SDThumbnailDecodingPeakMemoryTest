@@ -2,7 +2,7 @@
 //  SDThumbnailDecodingPeakMemoryTestUITests.m
 //  SDThumbnailDecodingPeakMemoryTestUITests
 //
-//  Created by eleme-ky on 2021/3/22.
+//  Created by KittenYang on 2021/3/22.
 //
 
 #import <XCTest/XCTest.h>
